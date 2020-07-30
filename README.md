@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Shervin, and I am a researcher/developer based in Rotterdam, Netherlands. I hold a BSc in Architectural Engineering from the University of Tehran, & MSc in Architecture (Cum laude) from TU Delft. I am currently a researcher at the Design Informatics Chair in TU Delft.
+
+My speciality is Computational Design. I have developed algorithms and created tools for analyses of light, visibility and accessibility in architecture. Nevertheless, my current research investigates the potentials of a mathematical/computational formulation of the architectural design problem, which can ultimately lead to a Computational Generative Design process. More specifically, I am interested in the possibility of Graph Grammars and Agent-Based Models as generative interfaces for design.
+
 <!--
 **shervinazadi/shervinazadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
