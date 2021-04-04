@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Shervin Azadi is a researcher at Design Informatics Chair in TU Delft. His main interest lies at understanding the complexities of spatial design problems with regards to multiple actors and criteria involved. Shervin has developed algorithms and tool-sets such as [topoGenesis](https://topogenesis.readthedocs.io) and [emergentium.io](https://emergentium.io/) for spatial analysis and simulations. Nevertheless, his current research investigates the potentials of a mathematical/computational formulation of the spatial design process as a series of decision-making processes, providing for collaboration of natural and artificial intelligence in face of spatial design problems. 
+Shervin is a researcher at Design Informatics Chair in TU Delft. His main interest lies at understanding the complexities of spatial design problems with regards to multiple actors and criteria involved. Shervin has developed algorithms and tool-sets such as [topoGenesis](https://topogenesis.readthedocs.io) and [emergentium.io](https://emergentium.io/) for spatial analysis and simulations. Nevertheless, his current research investigates the potentials of a mathematical/computational formulation of the spatial design process as a series of decision-making processes, providing for collaboration of natural and artificial intelligence in face of spatial design problems. 
 
 <!--
 **shervinazadi/shervinazadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
